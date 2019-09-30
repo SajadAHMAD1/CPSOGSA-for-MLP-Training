@@ -1,4 +1,4 @@
-This is the 'Hybrid Constriction Ciefficient based particle Swarm Optimization and Gravitational Search Algorithm for Training Multi-Layer Perceptron (MLP)' Mathlab code .
+This is the 'Hybrid Constriction Coefficient based particle Swarm Optimization and Gravitational Search Algorithm for Training Multi-Layer Perceptron (MLP)' Mathlab code .
 
 Change 'Get_Functions_details.m' for your other classification and function approximation benchmarks.
 and numerical optimization frameworks.
@@ -26,7 +26,7 @@ RouletteWheelSelection.m : finds optimal candidate solutions.
 
 initialization.m : initializes the position of agents in the search space, randomly.
 
-Gfield.m : calculates the accelaration of each agent in gravitational field.
+Gfield.m : calculates the acceleration of each agent in gravitational field.
 
 move.m : updates the velocity and position of agents.
 
